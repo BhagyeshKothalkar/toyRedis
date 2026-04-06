@@ -42,3 +42,9 @@
 
 #clang cache
 .cache
+
+# #IDE specifics
+# compile_commands.json
+
+# #the build directory
+# build/
