@@ -1,0 +1,6 @@
+# ninja log v5
+1	67	1775480740825795633	CMakeFiles/dummy_client.dir/src/testxlient.cpp.o	2081e1f0a847871a
+67	131	1775480740913796961	dummy_client	b460d1b3156767fd
+0	1207	1775480741985813154	CMakeFiles/redis_server.dir/src/TcpServer.cpp.o	81de8dc9697f5e80
+0	1154	1775480741933812369	CMakeFiles/redis_server.dir/src/main.cpp.o	521fb8b1f04ae887
+1207	1308	1775480742089814727	redis_server	5e88830e91aa35ae

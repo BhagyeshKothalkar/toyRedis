@@ -1,0 +1,4 @@
+/home/bhagyesh/projects/toyRedis/build/CMakeFiles/redis_server.dir
+/home/bhagyesh/projects/toyRedis/build/CMakeFiles/dummy_client.dir
+/home/bhagyesh/projects/toyRedis/build/CMakeFiles/edit_cache.dir
+/home/bhagyesh/projects/toyRedis/build/CMakeFiles/rebuild_cache.dir

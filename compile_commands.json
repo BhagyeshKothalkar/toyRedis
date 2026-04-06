@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/bhagyesh/projects/toyRedis/build",
+  "command": "/usr/bin/g++-14 -I/home/bhagyesh/projects/toyRedis/include -g -std=gnu++23 -Wall -Wextra -Wpedantic -o CMakeFiles/redis_server.dir/src/main.cpp.o -c /home/bhagyesh/projects/toyRedis/src/main.cpp",
+  "file": "/home/bhagyesh/projects/toyRedis/src/main.cpp",
+  "output": "/home/bhagyesh/projects/toyRedis/build/CMakeFiles/redis_server.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/bhagyesh/projects/toyRedis/build",
+  "command": "/usr/bin/g++-14 -I/home/bhagyesh/projects/toyRedis/include -g -std=gnu++23 -Wall -Wextra -Wpedantic -o CMakeFiles/redis_server.dir/src/TcpServer.cpp.o -c /home/bhagyesh/projects/toyRedis/src/TcpServer.cpp",
+  "file": "/home/bhagyesh/projects/toyRedis/src/TcpServer.cpp",
+  "output": "/home/bhagyesh/projects/toyRedis/build/CMakeFiles/redis_server.dir/src/TcpServer.cpp.o"
+},
+{
+  "directory": "/home/bhagyesh/projects/toyRedis/build",
+  "command": "/usr/bin/g++-14 -I/home/bhagyesh/projects/toyRedis/include -g -std=gnu++23 -Wall -Wextra -Wpedantic -o CMakeFiles/dummy_client.dir/src/testxlient.cpp.o -c /home/bhagyesh/projects/toyRedis/src/testxlient.cpp",
+  "file": "/home/bhagyesh/projects/toyRedis/src/testxlient.cpp",
+  "output": "/home/bhagyesh/projects/toyRedis/build/CMakeFiles/dummy_client.dir/src/testxlient.cpp.o"
+}
+]
