@@ -1,14 +1,8 @@
-#include <arpa/inet.h>
-#include <cassert>
-#include <cerrno>
-#include <cstdlib>
-#include <cstring>
-#include <stdarg.h>
-#include <stdint.h>
+#include <netinet/in.h>
 #include <stdio.h>
-#include <stdlib.h> // by the same person who created C and unix
+#include <stdlib.h>
+#include <string.h>
 #include <sys/socket.h>
-#include <sys/types.h>
 #include <unistd.h>
 
 int main() {
